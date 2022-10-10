@@ -1,3 +1,7 @@
+/**
+ * Ejercicio 4: Escribe un programa que muestre tu horario de clase.
+ * @author Jesús Herrera Sánchez
+ */
 public class Ejercicio4 {
     public static void main (String args[]) {
         System.out.println("┌────────┬──────────┬────────────┬────────────┬────────────┬────────────┐");

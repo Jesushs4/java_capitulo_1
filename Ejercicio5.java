@@ -1,3 +1,8 @@
+/**
+ * Ejercicio 5: Modifica el programa anterior añadiendo colores. Puedes mostrar cada asigna-
+ * tura de un color diferentes.
+ * @author Jesús Herrera Sánchez
+ */
 public class Ejercicio5 {
     public static void main (String args[]) {
         System.out.println("┌────────┬──────────┬────────────┬────────────┬────────────┬────────────┐");
